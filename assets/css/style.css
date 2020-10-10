@@ -1,0 +1,81 @@
+.bg-blue{
+    background-color: blue;
+}
+
+.bd-callout-primary {
+    border-left-color:#f0ad4e !important;
+}
+
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+
+footer {
+    padding: 45px 0px;
+}
+
+#reviews{
+    padding: 90px 0px;
+}
+
+#home-service-summary {
+    padding: 6rem 0;
+}
+
+#home-service-summary .card {
+    height: 12rem;
+    padding: 1rem;
+}
+
+#our-team-summary {
+    background-color: darkblue;
+    padding: 6rem 3rem;
+}
+
+.team-card {
+    box-shadow: #f0ad4e;
+    z-index: 10;
+    border-bottom: 2px solid blue;
+}
+
+#team {
+    padding: 6rem 0;
+}
+
+#pricing{
+    padding: 6rem 0;
+}
+
+.service {
+    border-color: #007bff !important;
+}
+
+#services {
+    padding: 6rem 0;
+}
+
+.blog-post{
+    padding: 2rem;
+}
+
+.blog-content {
+    text-align: justify;
+    line-height: 2;
+}
+
+#comment-section {
+    padding: 2rem;
+}
+
+.blog .card-img-top {
+    height: 225px;
+}
+
+#blogs {
+    padding: 2rem 0;
+}
